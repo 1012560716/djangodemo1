@@ -6,3 +6,4 @@ from django.shortcuts import render
 print(123)
 print(456)
 print(333)
+print(777)
